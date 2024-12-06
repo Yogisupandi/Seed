@@ -1,4 +1,2 @@
-http://1jfw28v2n5ucip6-country-us-session-kltclirxjd-lifetime-120:ghbo259hreedgxz@51.159.85.23:6060
-http://1jfw28v2n5ucip6-country-us-session-c3j56emvy2-lifetime-120:ghbo259hreedgxz@51.159.85.23:6060
-http://1jfw28v2n5ucip6-country-us-session-4a96eaztnu-lifetime-120:ghbo259hreedgxz@51.159.85.23:6060
-http://1jfw28v2n5ucip6-country-us-session-u3pcrryrcl-lifetime-120:ghbo259hreedgxz@51.159.85.23:6060
+
+query_id=AAHDayd3AgAAAMNrJ3cHmS6t&user=%7B%22id%22%3A6294039491%2C%22first_name%22%3A%22YA%22%2C%22last_name%22%3A%22%F0%9F%8D%85%F0%9F%90%BE%5C%22%F0%9F%8C%B1SEED%5C%22%22%2C%22username%22%3A%22Yogisu%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2F6tTr0kPX8nCH4IEQPTvWCMW95tN2iEtQS6Fx-59QO2Gdjlx7Jc3REAYX2T5CvIka.svg%22%7D&auth_date=1733443688&signature=yqN_sec2O91qPvoHZPMBDx7EH6Vx9uLN352azaVa74QXaXs3k4GSseCuTayN1BxJaZOJ6ZvEEdv4WObIviswBg&hash=61de5f452d25be41df1c12d63895ff967a81ddc5c6cc7c5f612c0b17c3f4e3b1
